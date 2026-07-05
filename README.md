@@ -50,7 +50,7 @@ The model was trained on a custom weapon detection dataset containing **48,413 i
 
 The overall workflow of the system is illustrated below.
 
-![System Architecture](screenshots/SystemArchitechtcure.jpeg)
+![System Architecture](screenshots/SystemArchitecture.jpeg)
 
 ## Dashboard Preview
 
