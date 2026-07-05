@@ -1,9 +1,11 @@
 # AI-Assisted Public Threat Detection System
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A real-time AI surveillance system that combines **weapon detection**, **face recognition**, and **threat assessment** through an interactive web dashboard.
 
 Developed using **YOLOv8**, **OpenCV**, **Flask**, and **Face Recognition** to demonstrate an end-to-end computer vision pipeline for intelligent public safety monitoring.
